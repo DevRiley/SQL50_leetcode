@@ -1,10 +1,3 @@
-/*
- * Goal: Find IDs where the temperature is higher than the previous day.
- * * Approach: 
- * Using SELF JOIN to compare the table with itself.
- * 'w1' represents the current day, and 'w2' represents the previous day.
- */
-
 SELECT 
     w1.id
 FROM 
