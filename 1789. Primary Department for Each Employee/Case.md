@@ -1,6 +1,6 @@
 # 🏢 SQL Case Study: Primary Department for Each Employee
-> **Category:** Conditional Filtering / Union / Window Functions
-> **Difficulty:** Easy-Medium
+> **Category:** Conditional Filtering / Union / Window Functions    
+> **Difficulty:** Easy-Medium    
 > **Tags:** `SQL`, `UNION`, `GROUP BY`, `HAVING`, `Window Functions`
 
 ## 1. Problem Description
